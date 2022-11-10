@@ -1,0 +1,12 @@
+E:\52000217\StudentLibTest\StudentLib\bin\Debug\net6.0\StudentLib.deps.json
+E:\52000217\StudentLibTest\StudentLib\bin\Debug\net6.0\StudentLib.dll
+E:\52000217\StudentLibTest\StudentLib\bin\Debug\net6.0\StudentLib.pdb
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.csproj.AssemblyReference.cache
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfoInputs.cache
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.AssemblyInfo.cs
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.csproj.CoreCompileInputs.cache
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.dll
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\refint\StudentLib.dll
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\StudentLib.pdb
+E:\52000217\StudentLibTest\StudentLib\obj\Debug\net6.0\ref\StudentLib.dll
